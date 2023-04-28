@@ -8,3 +8,8 @@
 	url = https://github.com/ucl/admur
 	shallow = true
 	registered = true
+[submodule "RefBasedMI"]
+	path = RefBasedMI
+	url = https://github.com/ucl/refbasedmi
+	shallow = true
+	registered = true
