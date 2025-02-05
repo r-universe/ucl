@@ -8,3 +8,6 @@
 [submodule "RefBasedMI"]
 	path = RefBasedMI
 	url = https://github.com/ucl/refbasedmi
+[submodule "rmcmc"]
+	path = rmcmc
+	url = https://github.com/ucl/rmcmc
