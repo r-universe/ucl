@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ADMUR"]
-	path = ADMUR
-	url = https://github.com/ucl/admur
 [submodule "RefBasedMI"]
 	path = RefBasedMI
 	url = https://github.com/ucl/refbasedmi
